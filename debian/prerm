@@ -1,0 +1,12 @@
+#!/bin/sh
+# prerm script for piavpn-sysvinit-compat
+#
+set -e
+# stop daemon
+if [ -x "/etc/init.d/nordvpns" ] && [ "$1" = remove ]; then
+	invoke-rc.d nordvpns stop || exit $?
+fi
+
+# End 
+
+exit 0

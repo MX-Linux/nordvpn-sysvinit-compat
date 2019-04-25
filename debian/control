@@ -1,0 +1,12 @@
+Source: nordvpn-sysvinit-compat
+Section: system
+Priority: optional
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.8
+
+Package: nordvpn-sysvinit-compat
+Architecture: all
+Depends:
+ insserv, init-system-helpers
+Description: sysvinit script for nordvpn daemon (NordVPN)

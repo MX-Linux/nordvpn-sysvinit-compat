@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 24 Apr 2019 22:31:31 -0400
+Source: nordvpn-sysvinit-compat
+Binary: nordvpn-sysvinit-compat
+Architecture: source all
+Version: 19.04.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ nordvpn-sysvinit-compat - sysvinit script for nordvpn daemon (NordVPN)
+Changes:
+ nordvpn-sysvinit-compat (19.04.01) mx; urgency=medium
+ .
+   * Initial release
+Checksums-Sha1:
+ da42ee6f39fd6b239a8ec0a1d49674e71a9fed6c 619 nordvpn-sysvinit-compat_19.04.01.dsc
+ 10608040fe274b70b721962b771a4394385da230 16568 nordvpn-sysvinit-compat_19.04.01.tar.xz
+ 15ca60d60f4264f45b6e75848f08f6a9c3139a57 17258 nordvpn-sysvinit-compat_19.04.01_all.deb
+ fdeb09f544d7c5c68e830d69e44c202b6ecc8749 5091 nordvpn-sysvinit-compat_19.04.01_amd64.buildinfo
+Checksums-Sha256:
+ adcc99df53ce778e9cbd696036fb347e9069964713d0f51096bdb2fd810f0eab 619 nordvpn-sysvinit-compat_19.04.01.dsc
+ 56490f6adb1c8805a8d1cbf108bb61c7a274466b492c09ed3c62aea3091dd2f2 16568 nordvpn-sysvinit-compat_19.04.01.tar.xz
+ 2ee2f8c90bb1823d530c192deb70566884704d18fc24cd13465f9f1451ea5579 17258 nordvpn-sysvinit-compat_19.04.01_all.deb
+ 0aba2ca6db1a68c238c9c0db4e5d9689e58369b4125c47c30aa1cda0ff0f05d0 5091 nordvpn-sysvinit-compat_19.04.01_amd64.buildinfo
+Files:
+ d4bea4e19c33012247526b61ed9ca1ff 619 system optional nordvpn-sysvinit-compat_19.04.01.dsc
+ d39d3c882ba74fe41e7549ec7d46afc4 16568 system optional nordvpn-sysvinit-compat_19.04.01.tar.xz
+ 49da77b470144bb9dea7b664c1cbb320 17258 system optional nordvpn-sysvinit-compat_19.04.01_all.deb
+ a75f2024256b36672dbd860ac4b048cf 5091 system optional nordvpn-sysvinit-compat_19.04.01_amd64.buildinfo

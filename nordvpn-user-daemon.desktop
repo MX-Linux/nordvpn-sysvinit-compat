@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=NordVPN User Service
+Comment=NordVPN User Service
+Exec=/usr/sbin/nordvpnud 
