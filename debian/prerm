@@ -1,5 +1,5 @@
 #!/bin/sh
-# prerm script for piavpn-sysvinit-compat
+# prerm script for nordvpn-sysvinit-compat
 #
 set -e
 # stop daemon

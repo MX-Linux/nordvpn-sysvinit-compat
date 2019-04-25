@@ -15,17 +15,17 @@ Changes:
  .
    * Initial release
 Checksums-Sha1:
- da42ee6f39fd6b239a8ec0a1d49674e71a9fed6c 619 nordvpn-sysvinit-compat_19.04.01.dsc
- 10608040fe274b70b721962b771a4394385da230 16568 nordvpn-sysvinit-compat_19.04.01.tar.xz
- 15ca60d60f4264f45b6e75848f08f6a9c3139a57 17258 nordvpn-sysvinit-compat_19.04.01_all.deb
- fdeb09f544d7c5c68e830d69e44c202b6ecc8749 5091 nordvpn-sysvinit-compat_19.04.01_amd64.buildinfo
+ 7e364ada515d4be2a2f7ce649c11558eb5a50554 619 nordvpn-sysvinit-compat_19.04.01.dsc
+ b05916ab94fa6f297f64f9218a96ca7235d31310 16604 nordvpn-sysvinit-compat_19.04.01.tar.xz
+ 4be6c8a05f749c8264b8b00ec63679e29449ed73 17256 nordvpn-sysvinit-compat_19.04.01_all.deb
+ 4f9876ac05d11c9e4d0ced9b01484f12c3f5eeef 5091 nordvpn-sysvinit-compat_19.04.01_amd64.buildinfo
 Checksums-Sha256:
- adcc99df53ce778e9cbd696036fb347e9069964713d0f51096bdb2fd810f0eab 619 nordvpn-sysvinit-compat_19.04.01.dsc
- 56490f6adb1c8805a8d1cbf108bb61c7a274466b492c09ed3c62aea3091dd2f2 16568 nordvpn-sysvinit-compat_19.04.01.tar.xz
- 2ee2f8c90bb1823d530c192deb70566884704d18fc24cd13465f9f1451ea5579 17258 nordvpn-sysvinit-compat_19.04.01_all.deb
- 0aba2ca6db1a68c238c9c0db4e5d9689e58369b4125c47c30aa1cda0ff0f05d0 5091 nordvpn-sysvinit-compat_19.04.01_amd64.buildinfo
+ 0caf2ea8d77f47fedc424c8dba31ab6af4fd5fc5ee7ef38604b3325b8d6ea1f3 619 nordvpn-sysvinit-compat_19.04.01.dsc
+ a8a0d335feb73ce256c64bfeba8fb0335f3ed906ba43fe02f9c9e18a7fc89ece 16604 nordvpn-sysvinit-compat_19.04.01.tar.xz
+ 1e0240a2aa904d517fe1cf58c625ace7e9662921610188e2711be911a4681fb9 17256 nordvpn-sysvinit-compat_19.04.01_all.deb
+ ff1ff3f7a4a811cdf4c5b8d419431675295d0ba98f8b3be2fbfcf7c1a31a7944 5091 nordvpn-sysvinit-compat_19.04.01_amd64.buildinfo
 Files:
- d4bea4e19c33012247526b61ed9ca1ff 619 system optional nordvpn-sysvinit-compat_19.04.01.dsc
- d39d3c882ba74fe41e7549ec7d46afc4 16568 system optional nordvpn-sysvinit-compat_19.04.01.tar.xz
- 49da77b470144bb9dea7b664c1cbb320 17258 system optional nordvpn-sysvinit-compat_19.04.01_all.deb
- a75f2024256b36672dbd860ac4b048cf 5091 system optional nordvpn-sysvinit-compat_19.04.01_amd64.buildinfo
+ 41df5ebafbcab0d74eac4862608fbba4 619 system optional nordvpn-sysvinit-compat_19.04.01.dsc
+ be130c4eb8afacfe6cb0d9651a77f98f 16604 system optional nordvpn-sysvinit-compat_19.04.01.tar.xz
+ 94030a6ccfd8b232f42359306716ec83 17256 system optional nordvpn-sysvinit-compat_19.04.01_all.deb
+ ea61c0c3ea9d17cad4000ef9b07ae920 5091 system optional nordvpn-sysvinit-compat_19.04.01_amd64.buildinfo

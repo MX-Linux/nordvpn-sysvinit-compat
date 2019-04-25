@@ -1,5 +1,5 @@
 #! /bin/sh
-# postrm script for piavpn-sysvinit-compat
+# postrm script for nordvpn-sysvinit-compat
 #
 
 
