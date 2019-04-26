@@ -1,3 +1,9 @@
+nordvpn-sysvinit-compat (19.04.02) mx; urgency=medium
+
+  * revised init script 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 25 Apr 2019 22:33:27 -0400
+
 nordvpn-sysvinit-compat (19.04.01) mx; urgency=medium
 
   * Initial release

@@ -14,6 +14,10 @@ PIDFILE=/var/run/$NAME.pid
 DAEMON=/usr/sbin/${NAME}d
 LOGFILE=/var/log/$NAME.log
 
+#exit gracefully if daemon doesn't exit
+
+[ -f "$DAEMON" ] || exit 0
+
 [ -f /lib/init/vars.sh ] && . /lib/init/vars.sh
 [ -f /lib/lsb/init-functions ] && . /lib/lsb/init-functions
 
